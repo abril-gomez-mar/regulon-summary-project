@@ -1,0 +1,57 @@
+TF	Total genes	Activados	Reprimidos	Tipo	Lista de genes
+AcrR	15	0	15	represor	acrA, acrB, acrR, flhC, flhD, marA, marB, marR, mdtI, mdtJ, mdtU, micF, puuA, soxR, soxS
+AgaR	11	0	11	represor	agaA, agaB, agaC, agaD, agaI, agaR, agaS, agaV, agaW, kbaY, kbaZ
+AllR	9	0	9	represor	allA, allB, allS, allW, gcl, glxK, glxR, hyi, ybbY
+AlsR	6	0	6	represor	alsA, alsB, alsC, alsE, alsR, rpiB
+AscG	5	0	5	represor	ascB, ascF, htpG, prpR, ybiT
+BirA	5	0	5	represor	bioA, bioB, bioC, bioD, bioF
+ChiX	6	0	6	represor	chbC, chiP, chiQ, chiZ, dpiA, dpiB
+CsqR	5	0	5	represor	csqR, yihS, yihT, yihU, yihV
+CyaR	9	0	9	represor	hdeD, luxS, nadE, ompX, rpoS, yacL, yliM, yobF, yqaE
+CytR	14	0	14	represor	aphA, cdd, cytR, deoA, deoB, deoC, deoD, nupC, nupG, ppiA, rpoH, tsx, udp, ycdZ
+DeoR	6	0	6	represor	deoA, deoB, deoC, deoD, nupG, tsx
+DgoR	5	0	5	represor	dgoA, dgoD, dgoK, dgoR, dgoT
+ExuR	10	0	10	represor	exuR, exuT, lgoD, lgoR, uxaA, uxaB, uxaC, uxuA, uxuB, uxuR
+FliX	12	0	12	represor	fliC, rplB, rplC, rplD, rplP, rplV, rplW, rpmC, rpsC, rpsJ, rpsQ, rpsS
+FliZ	22	0	22	represor	csgA, csgB, csgC, csgD, csgE, csgF, csgG, flhC, flhD, gadB, gadC, gadE, gadF, hdeA, hdeB, mdtE, mdtF, mlrA, osmY, pdeR, yhiD, yjbJ
+FnrS	20	0	20	represor	azuC, azuR, cydC, cydD, folE, folX, glpD, gpmA, iscR, maeA, marA, metE, sodA, sodB, yebY, yebZ, yeiB, yfcH, yieP, yobA
+FrlR	5	0	5	represor	frlA, frlB, frlC, frlD, frlR
+GalR	6	0	6	represor	galP, galR, galS, mglA, mglB, mglC
+GalS	6	0	6	represor	galP, galR, galS, mglA, mglB, mglC
+GatR	6	0	6	represor	gatA, gatB, gatC, gatD, gatY, gatZ
+GlpR	9	0	9	represor	glpA, glpB, glpC, glpD, glpF, glpK, glpQ, glpT, glpX
+GntR	12	0	12	represor	eda, edd, gntK, gntT, gntU, idnD, idnK, idnO, idnR, idnT, nfuA, yhgH
+HipAB	5	0	5	represor	hipA, hipB, mazE, mazF, relA
+HipB	8	0	8	represor	eutA, eutH, fadH, hipA, hipB, mazE, mazF, relA
+LexA	63	0	63	represor	cho, ddlB, dinB, dinD, dinF, dinG, dinI, dinJ, dinQ, dnaG, ftsA, ftsI, ftsK, ftsL, ftsO, ftsQ, ftsW, ftsZ, hokE, insK, lexA, lpxC, mraY, murC, murD, murE, murF, murG, phr, polB, ptrA, recA, recB, recD, recN, recQ, recX, rpoD, rpsU, ruvA, ruvB, sbmC, ssb, sulA, symE, tisB, umuC, umuD, uvrA, uvrB, uvrC, uvrD, uvrY, yafN, yafO, yafP, yafQ, ybfE, ybiB, ydjM, yebG, yehF, yoaA
+LsrR	9	0	9	represor	lsrA, lsrB, lsrC, lsrD, lsrF, lsrG, lsrK, lsrR, tam
+MetJ	15	0	15	represor	ahpC, ahpF, folE, metA, metB, metC, metE, metF, metI, metK, metL, metN, metQ, metR, yeiB
+MicA	18	0	18	represor	cpoB, ecnB, fimB, gloA, lamB, ldtC, lpxT, ompA, ompW, ompX, pal, phoP, phoQ, tolB, tsx, yfeK, ygiM, yliM
+Mlc	10	0	10	represor	bidA, crr, malT, manX, manY, manZ, mlc, ptsG, ptsH, ptsI
+MprA	6	0	6	represor	acrA, acrB, emrA, emrB, mprA, nmpC
+MqsA	13	0	13	represor	csgD, csgE, csgF, csgG, cspD, lfgA, lfgB, mqsA, mqsR, rpoS, yfjZ, ypjF, ypjJ
+MraZ	18	0	18	represor	ddlB, ftsA, ftsI, ftsL, ftsO, ftsQ, ftsW, ftsZ, lpxC, mioC, mraY, mraZ, murC, murD, murE, murF, murG, rsmH
+NikR	6	0	6	represor	nikA, nikB, nikC, nikD, nikE, nikR
+NrdR	9	0	9	represor	nrdA, nrdB, nrdD, nrdE, nrdF, nrdG, nrdH, nrdI, yfaE
+OmrA	12	0	12	represor	cirA, csgD, csgE, csgF, csgG, dgcM, fepA, flgM, flhC, flhD, ompR, ompT
+OmrB	12	0	12	represor	cirA, csgD, csgE, csgF, csgG, dgcM, fepA, flgM, flhC, flhD, ompR, ompT
+PaaX	14	0	14	represor	paaA, paaB, paaC, paaD, paaE, paaF, paaG, paaH, paaI, paaJ, paaK, paaX, paaY, paaZ
+PgrR	9	0	9	represor	mpaA, mppA, tyrR, ycjF, ycjG, ycjX, ycjY, ymjC, ymjD
+PlaR	14	0	14	represor	eda, glpA, glpT, lyxK, plaR, sgbE, sgbH, sgbU, ygjV, yiaK, yiaL, yiaM, yiaN, yiaO
+PurR	32	0	32	represor	carA, carB, codA, codB, cvpA, gcvH, gcvP, gcvT, glnB, glyA, guaA, guaB, hflD, prs, purA, purB, purC, purD, purE, purF, purH, purK, purL, purM, purN, purR, purT, pyrC, pyrD, speA, speB, ubiX
+PuuR	8	0	8	represor	puuA, puuB, puuC, puuD, puuE, puuP, puuR, ymjE
+RacR	6	0	6	represor	rzpR, ydaS, ydaT, ydaU, ydaV, ydaW
+RplA	6	0	6	represor	rplA, rplJ, rplK, rplL, rpoB, rpoC
+RpoN	6	0	6	represor	cspC, fadL, mutM, nth, yfcZ, yobF
+RpsH	12	0	12	represor	rplE, rplF, rplN, rplO, rplR, rplX, rpmD, rpmJ, rpsE, rpsH, rpsN, secY
+SdhX	6	0	6	represor	ackA, fdhE, fdoG, fdoH, fdoI, katG
+SdsR	5	0	5	represor	mutS, tolC, yeaG, yeaH, yhcB
+SrlR	7	0	7	represor	gutM, gutQ, srlA, srlB, srlD, srlE, srlR
+TrpR	12	0	12	represor	aroH, aroL, aroM, mtr, trpA, trpB, trpC, trpD, trpE, trpL, trpR, yaiA
+UlaR	7	0	7	represor	ulaA, ulaB, ulaC, ulaD, ulaE, ulaF, ulaG
+UxuR	11	0	11	represor	exuR, fliC, gntP, lgoD, lgoR, uidA, uidB, uidC, uxuA, uxuB, uxuR
+XynR	5	0	5	represor	insX, yagA, yagB, yagE, yagF
+YcjW	12	0	12	represor	ompG, ycjM, ycjN, ycjO, ycjP, ycjQ, ycjR, ycjS, ycjT, ycjU, ycjV, ymjB
+YjjQ	10	0	10	represor	dgcN, flhC, flhD, gfcA, ompC, ybhL, yciX, yfiB, yfiR, ymiA
+Zur	7	0	7	represor	pliG, ykgM, ykgO, zinT, znuA, znuB, znuC
+carbon storage regulator CsrA	14	0	14	represor	acnA, dgcT, dgcZ, evgA, glgA, glgC, glgP, glgS, nhaR, pgaA, pgaB, pgaC, pgaD, sdiA
